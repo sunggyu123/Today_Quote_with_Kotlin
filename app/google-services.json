@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431228242611",
+    "project_id": "today-quote-5ccd2",
+    "storage_bucket": "today-quote-5ccd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431228242611:android:bd3f685ef264af44c37ec6",
+        "android_client_info": {
+          "package_name": "com.example.today_good_language"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431228242611-ngnp0qbcv7m4bsm0aou86lt1l1pjm3fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtDs4r-SSgLckVMC59vYFZOCcyY87GoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431228242611-ngnp0qbcv7m4bsm0aou86lt1l1pjm3fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
